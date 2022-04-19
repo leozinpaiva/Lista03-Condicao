@@ -11,6 +11,8 @@ programa
 		escreva("Informe valores:\n")
 		leia(i)
 		c = i
+		x = i
+		
 		faca {
 			se ( i > j){
 				j = i	
